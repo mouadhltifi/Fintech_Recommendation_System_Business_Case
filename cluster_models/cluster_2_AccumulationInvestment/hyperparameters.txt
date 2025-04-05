@@ -1,0 +1,16 @@
+booster=gbtree
+learning_rate=0.001053823318973539
+max_depth=3
+min_child_weight=4
+gamma=2.6772835617122035e-08
+subsample=0.969646762955156
+colsample_bytree=0.6249218705416067
+colsample_bylevel=0.6669009264037867
+alpha=0.29033947204622956
+lambda=0.8652474336582119
+scale_pos_weight=0.5481339858082783
+max_delta_step=10
+objective=binary:logistic
+eval_metric=auc
+tree_method=hist
+random_state=42

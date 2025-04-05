@@ -1,0 +1,11 @@
+n_layers=4
+hidden_dim=32
+learning_rate=0.0020488905121428804
+batch_size=512
+dropout=0.1434349813905869
+weight_decay=0.0009672136179157035
+optimizer=adamw
+activation=elu
+scheduler=cosine
+hidden_dims=[32, 32, 32, 32]
+dropout_rates=[0.1434349813905869, 0.1434349813905869, 0.1434349813905869, 0.1434349813905869, 0.1434349813905869]

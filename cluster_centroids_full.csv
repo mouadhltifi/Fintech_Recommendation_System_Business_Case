@@ -1,8 +1,4 @@
-Cluster,Cluster_Size,Cluster_Percentage,IncomeInvestment,AccumulationInvestment,Gender,FamilyMembers,Age_Risk_Interaction,Education_Risk_Profile,Age_Squared,Gender_Age_Risk,FinancialEducation_Squared,Wealth_Sqrt,Financial_Sophistication_Ratio,Wealth_to_Income_log,Life_Stage_Adjusted_Income_log,Financial_Sophistication_log,Retirement_Readiness_log,Financial_Fragility_log,life_Young,life_Middle,life_Pre-retirement,life_Retirement,Family_Pressure
-0,920,18.4,27.6,58.0,0.0,0.373,0.199,0.235,0.173,0.0,0.26,0.135,0.204,0.184,0.512,0.068,0.019,0.436,0.0,1.0,0.0,0.0,0.466
-1,1180,23.6,31.1,50.5,1.0,0.384,0.236,0.193,0.334,0.314,0.227,0.163,0.139,0.216,0.476,0.069,0.093,0.467,0.0,0.0,1.0,0.0,0.476
-2,414,8.3,79.0,51.2,0.0,0.381,0.272,0.184,0.548,0.0,0.238,0.249,0.109,0.293,0.476,0.097,0.327,0.523,0.0,0.0,0.0,1.0,0.097
-3,1151,23.0,35.1,47.4,0.0,0.376,0.253,0.216,0.329,0.0,0.25,0.18,0.149,0.225,0.498,0.08,0.089,0.464,0.0,0.0,1.0,0.0,0.469
-4,700,14.0,22.0,51.9,1.0,0.366,0.189,0.216,0.176,0.255,0.238,0.119,0.193,0.178,0.48,0.063,0.019,0.431,0.0,1.0,0.0,0.0,0.461
-5,542,10.8,73.4,51.3,1.0,0.387,0.271,0.175,0.544,0.357,0.215,0.225,0.104,0.271,0.467,0.084,0.305,0.519,0.0,0.0,0.0,1.0,0.099
-6,93,1.9,15.1,39.8,0.409,0.379,0.139,0.334,0.046,0.074,0.376,0.09,0.388,0.151,0.515,0.078,0.01,0.37,1.0,0.0,0.0,0.0,0.204
+Cluster,Cluster_Size,Cluster_Percentage,IncomeInvestment,AccumulationInvestment,is_retirement_age,life_Retirement,Gender,Age_Squared,Age,FamilyMembers,Wealth_log,Wealth_to_Income_log,Risk_Capacity_log,Wealth_Per_Family_Size_log,Investment_Capacity_log,Financial_Sophistication_Ratio,FinancialEducation_Squared,Education_Risk_Profile,risk_tolerance_log,Financial_Independence_Score_log,Retirement_Readiness_log,Life_Stage_Adjusted_Income_log,Wealth_Concentration_log,Age_Risk_Interaction,Wealth_Sqrt,Wealth,Financial_Independence_Score,Wealth_to_Income,Wealth_Per_Family_Size,Risk_Capacity,Retirement_Readiness
+0,2096,41.9,31.5,52.3,0.011,0.0,0.0,0.252,0.409,0.375,0.485,0.205,0.229,0.451,0.57,0.18,0.26,0.229,0.003,0.047,0.054,0.506,0.093,0.227,0.158,0.036,0.025,0.025,0.033,0.042,0.004
+1,1848,37.0,27.8,50.9,0.0,0.0,1.0,0.264,0.424,0.377,0.458,0.199,0.201,0.423,0.541,0.165,0.234,0.204,0.004,0.046,0.056,0.478,0.089,0.216,0.144,0.03,0.025,0.025,0.028,0.035,0.004
+2,1056,21.1,70.5,50.1,1.0,0.905,0.58,0.535,0.68,0.384,0.575,0.277,0.278,0.544,0.637,0.107,0.223,0.178,0.003,0.079,0.311,0.47,0.106,0.269,0.231,0.073,0.045,0.045,0.068,0.059,0.045

@@ -1,0 +1,11 @@
+n_layers=3
+hidden_dim=128
+learning_rate=0.0005701024451415286
+batch_size=128
+dropout=0.2775379363256523
+weight_decay=0.0003750418581865901
+optimizer=adam
+activation=relu
+scheduler=none
+hidden_dims=[128, 128, 128]
+dropout_rates=[0.2775379363256523, 0.2775379363256523, 0.2775379363256523, 0.2775379363256523]
