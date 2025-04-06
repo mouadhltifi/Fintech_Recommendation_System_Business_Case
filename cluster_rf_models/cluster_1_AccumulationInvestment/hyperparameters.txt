@@ -1,0 +1,8 @@
+n_estimators=346
+max_depth=4
+min_samples_split=16
+min_samples_leaf=10
+max_features=None
+bootstrap=True
+class_weight=None
+criterion=entropy

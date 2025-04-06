@@ -1,0 +1,8 @@
+n_estimators=109
+max_depth=3
+min_samples_split=7
+min_samples_leaf=10
+max_features=sqrt
+bootstrap=True
+class_weight=None
+criterion=gini
