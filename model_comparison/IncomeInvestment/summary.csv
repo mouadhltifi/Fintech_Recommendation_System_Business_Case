@@ -1,5 +1,5 @@
 Model,Type,accuracy,precision,recall,f1,auc,Overall,accuracy_rank,precision_rank,recall_rank,f1_rank,auc_rank,Overall_rank,Avg_Rank
-RandomForest,Cluster,0.8282,0.9441,0.505,0.5989,0.7917,0.7336,1.0,1.0,3.0,4.0,1.0,1.0,1.8333
-XGBoost,Cluster,0.8246,0.9175,0.5135,0.6114,0.7838,0.7301,2.0,2.0,2.0,3.0,2.0,2.0,2.1667
+XGBoost,Cluster,0.8295,0.9331,0.5167,0.6198,0.787,0.7372,1.0,2.0,2.0,3.0,2.0,1.0,1.8333
+RandomForest,Cluster,0.8282,0.9441,0.505,0.5989,0.7917,0.7336,2.0,1.0,3.0,4.0,1.0,2.0,2.1667
 NeuralNetwork,Cluster,0.8235,0.8757,0.5238,0.6284,0.775,0.7253,3.0,4.0,1.0,1.0,3.0,3.0,2.5
 DirectNN,Global,0.78,0.9059,0.4766,0.6246,0.7662,0.7107,4.0,3.0,4.0,2.0,4.0,4.0,3.5
